@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "TLTV.h"
+// 抽象命令类
 @interface TLSuperCommand : NSObject
 @property (nonatomic, strong)TLTV *tv;
 - (void)executeCommand;

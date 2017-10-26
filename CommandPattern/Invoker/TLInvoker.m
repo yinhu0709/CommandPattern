@@ -9,7 +9,7 @@
 #import "TLInvoker.h"
 #import "TLSuperCommand.h"
 @interface TLInvoker ()
-@property (nonatomic, strong)NSMutableArray *commandList;
+@property (nonatomic, strong)NSMutableArray *commandList;// 用来存放命令的列表
 @end
 @implementation TLInvoker
 - (instancetype)init {

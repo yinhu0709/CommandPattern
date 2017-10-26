@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+// 命令的接受者
 @interface TLTV : NSObject
 - (void)openTV;
 - (void)closeTV;

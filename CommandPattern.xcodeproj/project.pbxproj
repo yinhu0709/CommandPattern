@@ -339,10 +339,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = GD4RV76Q3P;
+				DEVELOPMENT_TEAM = 3F6YQ3PC52;
 				INFOPLIST_FILE = CommandPattern/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.szn.CommandPattern;
+				PRODUCT_BUNDLE_IDENTIFIER = com.szn.Command;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -353,10 +353,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = GD4RV76Q3P;
+				DEVELOPMENT_TEAM = 3F6YQ3PC52;
 				INFOPLIST_FILE = CommandPattern/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.szn.CommandPattern;
+				PRODUCT_BUNDLE_IDENTIFIER = com.szn.Command;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
